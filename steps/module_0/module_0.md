@@ -33,3 +33,8 @@ Tableau A-Z - http://bit.ly/385lYvN
     💾GitHub: https://github.com/AlexTheAnalyst
     📱Instagram: @Alex_The_Analyst
      https://www.analystbuilder.com/
+# Tutoriels intéressants pour excel:  ( privilégier les tutos ou il y aussi du vba dedans )
+1) accounting in excel ( excel for freelancer )
+https://www.youtube.com/watch?v=yddh4KJpjBY&list=PLIBeRriXvKzAvGRQw9tmTG0V2tsjGpQ7c&index=69
+2) https://www.youtube.com/watch?v=hkybRW7Z3Yk ( finance for accounting : learn it Training channel)
+3) https://www.youtube.com/watch?v=Vl0H-qTclOg ( free code camp : 6 projects in 1 hours)
